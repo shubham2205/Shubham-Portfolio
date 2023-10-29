@@ -60,6 +60,13 @@ export const skills = [
         image:
           "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/640px-Tailwind_CSS_Logo.svg.png",
       },
+
+
+      {
+        name: "Framer motion",
+        image:
+          "https://i.ibb.co/M8t4mCz/framer-motion-logo-DA1-E33-CAA1-seeklogo-com.png",
+      },
       // {
       //   name: "Flutter",
       //   image:
