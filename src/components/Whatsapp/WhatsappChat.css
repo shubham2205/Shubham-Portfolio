@@ -1,0 +1,9 @@
+.whatsapp_logo{
+    z-index: 999;
+width:4vmax;
+height:4vmax;
+position: fixed;
+bottom: 2vmin;
+right:2vmin
+
+}

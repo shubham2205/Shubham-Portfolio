@@ -145,6 +145,7 @@ const Skills = () => {
       </Wrapper>
     </Container>
   )
+  
 }
 
 export default Skills
